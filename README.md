@@ -65,6 +65,11 @@ Full end-to-end trading system for crypto, forex, and commodity markets. Include
 
 ---
 
+### 🎙️ Google Gemini TTS Pipeline 
+— Automated text-to-speech content creation pipeline using Google Gemini API, Python, and Bash
+
+---
+
 ### ⛓️ Smart Contract Development
 > Solidity · Web3.py · Hardhat · Ethereum Testnet · IPFS
 
@@ -104,7 +109,7 @@ Full end-to-end trading system for crypto, forex, and commodity markets. Include
 - 🗣️ Fluent in **English, Farsi, and Turkish**
 - 🏗️ 10+ years of industry experience in project management, commercial estimation, and sales
 - 🧠 Passionate about financial markets, cybersecurity, and the intersection of data and decision-making
-- 🇦🇺 Based in Melbourne · Australian Citizen
+- 🇦🇺 Based in Melbourne 
 
 ---
 
