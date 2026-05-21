@@ -1,4 +1,4 @@
-# Hi, I'm Seyed Niaragh 👋
+# Hi, I'm Daniel Niaragh 👋
 
 ### Data Scientist · Algorithmic Trader · Builder
 
