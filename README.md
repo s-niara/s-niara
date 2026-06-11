@@ -1,6 +1,6 @@
 # Hi, I'm Daniel Niaragh 👋
 
-### Data Scientist · Algorithmic Trader · Builder
+### Data Scientist · Algorithmic Developer · Builder
 
 Final-year Bachelor of Data Science student at Victoria University (Distinction Average, 85–90%) with a passion for building real systems — not just running notebooks.
 
